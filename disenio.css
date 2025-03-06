@@ -3,7 +3,7 @@
 body {
     display: flex;
     width: 50%;
-    margin: 240px auto;
+    margin: 150px auto;
     background-color: hsl(30, 38%, 92%)
 }
 
